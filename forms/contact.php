@@ -7,7 +7,11 @@
   */
 
   // Replace contact@example.com with your real receiving email address
+<<<<<<< HEAD
   $receiving_email_address = '';
+=======
+  $receiving_email_address = 'khennethpuerto61@gmail.com';
+>>>>>>> 0880157eb3e1e6e8995361337436c0674ca37282
 
   if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
     include( $php_email_form );
