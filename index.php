@@ -6,11 +6,11 @@
       <h1><a href="index.php">KHENNETH PUERTO</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
-      <h2> <span>Associate Web Developer </span></h2>
+      <h2> <span>Web Developer </span></h2>
 
       <nav id="navbar" class="navbar">
         <ul>
-          <!-- <li><a class="nav-link active" href="#header">Home</a></li> -->
+          <li><a class="nav-link active" href="#header">Home</a></li>
           <li><a class="nav-link" href="#about">About</a></li>
           <li><a class="nav-link" href="#resume">Resume</a></li>
           <!-- <li><a class="nav-link" href="#services">Services</a></li>-->

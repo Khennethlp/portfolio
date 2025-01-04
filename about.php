@@ -13,9 +13,9 @@
       <img src="assets/img/aq.jpg" class="img-fluid" alt="">
     </div>
     <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-      <h3>Associate Web Developer</h3>
+      <h3>Web Developer </h3>
       <p class="fst-italic">
-        Bored Developer
+        Bored Developer 🥱
       </p>
       <div class="row">
         <div class="col-lg-6">
