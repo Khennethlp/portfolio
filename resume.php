@@ -45,7 +45,10 @@
           <h5>Apr 2024 - Present</h5>
           <p>
           <ul>
-            <li>Designed and implemented a production-ready web system</li>
+            <li>Designed and developed system from scratch.</li>
+            <li>Collaborated with cross-functional teams to implement user-friendly interfaces.</li>
+            <li>Building custom solutions to improve workflows with tailored tools.</li>
+            <li>Automating manual process, and return data into dashboards.</li>
           </ul>
           </p>
         </div>
@@ -57,6 +60,54 @@
           <h5>Jan 2023 - May 2023</h5>
           <ul>
             <li>IT system and network support </li>
+          </ul>
+          </p>
+        </div>
+
+      </div>
+      <div class="col-lg-6">
+        <h3 class="resume-title">Skills</h3>
+        <div class="resume-item">
+          <h4>Languages & Tools</h4>
+          <p>
+          <ul>
+            <li>PHP</li>
+            <li>JavaScript</li>
+            <li>JQuery</li>
+            <li>PowerShell</li>
+            <li>HTML</li>
+            <li>CSS</li>
+          </ul>
+          </p>
+        </div>
+        <div class="resume-item">
+          <h4>Databases</h4>
+          <p>
+          <ul>
+            <li>MySQL</li>
+            <li>MSSQL</li>
+            <li>Oracle</li>
+          </ul>
+          </p>
+        </div>
+        <div class="resume-item">
+          <h4>Version Control</h4>
+          <p>
+          <ul>
+            <li>Git</li>
+            <li>Github</li>
+          </ul>
+          </p>
+        </div>
+        <div class="resume-item">
+          <h4>Soft Skills</h4>
+          <p>
+          <ul>
+            <li>Excellent communication and interpersonal skills.</li>
+            <li>Excellent problem-solving skills and attention to detail.</li>
+            <li>Ability to adapt in a fast-paced environment.</li>
+            <li>Ability to work independently and as part of a team.</li>
+            <li>Team player and fast learner.</li>
           </ul>
           </p>
         </div>
